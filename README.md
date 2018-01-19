@@ -1,6 +1,6 @@
 # Introduction To HTML And Javascript
 
-This is the first project based course in the Microsoft Professional Program for Front-End Web Development track. full details of the course can be found [here](https://www.edx.org/course/introduction-html-javascript-microsoft-dev211-1x-3) .
+This is the first project based course in the Microsoft Professional Program for Front-End Web Development track. Full description of the course can be found [here](https://www.edx.org/course/introduction-html-javascript-microsoft-dev211-1x-3) .
 
 ## Objective
 
@@ -24,12 +24,11 @@ I use [Git](https://git-scm.com/) for versioning. For the versions available, se
 
 ## Author
 
-* **David C. Onoh**  [Twitter](http://twitter.com/davidconoh/), [LinkedIn](http://linkedin.com/in/davidconoh/)
-Email: davidconoh@live.com
+* **David C. Onoh**  [Twitter](http://twitter.com/davidconoh/), [LinkedIn](http://linkedin.com/in/davidconoh/).  Email: davidconoh@live.com
 
 ## License
 
-This project is free to use by anyone who is interested in learning front-end web development and in compliance with Microsoft Academy's [Terms of Service](https://academy.microsoft.com/en-us/terms-of-service/) and edX's [Honor Code](https://www.edx.org/edx-terms-service).
+This project is free to use by anyone who is interested in learning front-end web development in compliance with Microsoft Academy's [Terms of Service](https://academy.microsoft.com/en-us/terms-of-service/) and edX's [Honor Code](https://www.edx.org/edx-terms-service).
 
 ## Acknowledgments
 

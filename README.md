@@ -24,7 +24,7 @@ I use [Git](https://git-scm.com/) for versioning. For the versions available, se
 
 ## Author
 
-* **David C. Onoh**  [Twitter](http://twitter.com/davidconoh/), [LinkedIn](http://linkedin.com/in/davidconoh/).  Email: davidconoh@live.com
+* **David C. Onoh**  [Twitter](http://twitter.com/davidconoh/), [LinkedIn](http://linkedin.com/in/davidconoh/), [GitHub](https://github.com/davidconoh) Email: davidconoh@live.com
 
 ## License
 

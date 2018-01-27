@@ -12,6 +12,10 @@ All code have been carefully written with simplicity and clarity in mind. Yet, s
 
 The project is carefully structured within the [contoso_news](https://github.com/ALCwithMicrosoft/Intro-to-HTML-and-Javascript/tree/master/contoso_news) directory.
 
+## Hands on
+
+The [hands_on](https://github.com/ALCwithMicrosoft/Intro-to-HTML-and-Javascript/tree/master/contoso_news/hands_on/) folder holds all the practical hands on exercises completed during the course. It can be referenced to iterate the different concepts studied while taking the course.
+
 ## Built With
 
 * [Visual Studio Code](https://code.visualstudio.com/) - Text Editor
